@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohammedanas089
 - 👀 I’m interested in Computers
 - 🌱 I’m currently doing a  Master's degree related to Cs 
-- 💞️ I’m looking to collaborate on any aspect of Software Product development/deployment
+- 💞️ I’m looking to collaborate on any aspect of Software development/deployment
 - 📫 Reach me using email : mohammedanas.mca22@rvce.edu.in
 
 <!---
